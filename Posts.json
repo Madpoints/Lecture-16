@@ -1,0 +1,17 @@
+[
+	{
+		"PostId": 1,
+		"Title": "My first post",
+		"Content": "Some content",
+		"Comments": [
+			{
+				"CommentId": 1,
+				"Content": "Commenting on first post"
+			}
+		],
+		"Author": {
+			"ID": 1,
+			"DisplayName": "John F."
+		}
+	}
+]
