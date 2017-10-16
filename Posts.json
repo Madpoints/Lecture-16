@@ -1,4 +1,4 @@
-[
+[[
 	{
 		"PostId": 1,
 		"Title": "My first post",
@@ -13,5 +13,25 @@
 			"ID": 1,
 			"DisplayName": "John F."
 		}
+	},  
+	{
+		"PostId": 2,
+		"Title": "My second post",
+		"Content": "Some content",
+		"Comments": [
+			{
+				"CommentId": 2,
+				"Content": "Commenting on second post"
+			},
+			{
+				"CommentId": 3,
+				"Content": "Also commenting on second post"
+			}
+		]
+	},
+	{
+		"PostId": 3,
+		"Title": "My third post",
+		"Content": "Some content"
 	}
-]
+]]
